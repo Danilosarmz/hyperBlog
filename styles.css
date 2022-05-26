@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    background-color: #9DBF9E;
+    font-family: Courier;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.2rem;
+    background-color: skyblue;
+    color: white;
+}
+
+.container h1{
+    font-size: 3.3rem;
+    margin: 10px 0;
+}
+
+.container .cabecera{
+    margin: 2rem;
+    font-size: 4rem;
+    box-shadow: 4px 4px 7px 6px rgba(255,255,255,1);
+}
+
+.post{
+    border: 1px solid black;
+    padding: 2rem;
+    text-align: center;
+}

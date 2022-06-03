@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-size: 62.5%;
-    background-color: #F9B5AC;
+    background-color: #8C86AA;
     font-family: Courier;
 }
 
@@ -14,12 +14,13 @@
     justify-content: center;
     align-items: center;
     font-size: 3.2rem;
-    background-color: skyblue;
+    background-color: #7E3F8F;
     color: white;
 }
 
 .container h1{
     font-size: 3.3rem;
+    background-color: #81559B;
     margin: 10px 0;
 }
 
@@ -27,10 +28,13 @@
     margin: 2rem;
     font-size: 4rem;
     box-shadow: 4px 4px 7px 6px rgba(255,255,255,1);
+    background-color: #81559B;
 }
 
 .post{
     border: 1px solid black;
     padding: 2rem;
     text-align: center;
+    width: 80%;
+    height: 70%;
 }

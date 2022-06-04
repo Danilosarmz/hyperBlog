@@ -34,3 +34,12 @@
     padding: 2rem;
     text-align: center;
 }
+
+footer{
+    background: #69353F;
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 2.5rem;
+    color: white;
+}
